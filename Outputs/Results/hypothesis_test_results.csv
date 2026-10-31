@@ -1,0 +1,3 @@
+"Test","Statistic","P_Value"
+"Chi-square: Gender vs Survival",263.050574070656,3.71174777011348e-59
+"Wilcoxon: Age vs Survival",97978.5,0.269673121488636
